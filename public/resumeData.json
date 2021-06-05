@@ -1,0 +1,116 @@
+{
+  "main": {
+    "name": "Enriquillo Billini",
+    "occupation": "Full Stack Web Developer",
+    "description": "Building things",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Killo! and love to build beautiful and functional services. I've been coding for over 5 years now. As a Full Stack developer I've worked with a startup and for personal porpuses. Now im looking for the next challenge building an app for millon of users.",
+    "contactmessage": "Get in touch with me, its free",
+    "email": "enriquillo.billini@gmail.com",
+    "phone": "+809 610 3505",
+    "address": {
+      "street": "",
+      "city": "Dominican Republic",
+      "state": "",
+      "zip": ""
+    },
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "http://papareact.com",
+    "social": [
+      {
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCEzm7_XiPAhhKkMTHrP5HCg",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/enriquillo.billini",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/enriquillo-billini/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/esbillini/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/killosismo",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "UNAPEC - DR",
+        "degree": "Bachelor's Degree, Digital Communications",
+        "graduated": "December 2021",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "Listín Diario",
+        "title": "Digital Development coordinator",
+        "years": "May 2013 - Present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Firebase",
+        "level": "85%"
+      },
+      {
+        "name": "Git",
+        "level": "50%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "70%"
+      },
+      {
+        "name": "Web Development",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Clone (React JS & Redux)",
+        "category": "",
+        "image": "amazon.jpg",
+        "url": "https://clone-fed1f.web.app"
+      },
+      {
+        "title": "Upgrade Developers Group (HTML, CSS & Javascript)",
+        "category": "",
+        "image": "upgrade.jpg",
+        "url": "https://upweb-bb16e.firebaseapp.com/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Killo is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Enriquillo has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
