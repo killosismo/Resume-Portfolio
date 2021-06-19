@@ -14,19 +14,10 @@
       "state": "",
       "zip": ""
     },
-    "website": "https://www.papareact.com/course",
-    "resumedownload": "http://papareact.com",
+    "website": "",
+    "resumedownload": "",
     "social": [
-      {
-        "name": "youtube",
-        "url": "https://www.youtube.com/channel/UCEzm7_XiPAhhKkMTHrP5HCg",
-        "className": "fa fa-youtube"
-      },
-      {
-        "name": "facebook",
-        "url": "https://www.facebook.com/enriquillo.billini",
-        "className": "fa fa-facebook"
-      },
+      
       {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/enriquillo-billini/",
@@ -98,6 +89,12 @@
         "category": "",
         "image": "upgrade.jpg",
         "url": "https://upweb-bb16e.firebaseapp.com/"
+      },
+      {
+        "title": "Blog system in React, json-Server and Heroku",
+        "category": "",
+        "image": "qblog.jpg",
+        "url": "https://qbblog.herokuapp.com/"
       }
     ]
   },
